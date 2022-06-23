@@ -1,0 +1,95 @@
+.container{
+    background-color: lightgrey;
+    width:80%;
+    height: 450px;
+    margin: auto;
+}
+.heading{
+    margin:center;
+    text-align: center;
+    color: rgb(255,99,24);;
+    font-weight: 500;
+    font-style: normal;
+}
+.addtitle{
+    color:rgb(51, 50, 50);
+    font-size:x-large;
+    display:flex;
+    margin-top: -19px;
+    padding-left: 150px;
+    line-height: 1.5px;
+}
+.middleBox{
+    color: aliceblue;
+}
+input {
+    
+    margin-left: 13.7%;
+    width:80%;
+    height: 30px;
+    
+    
+
+}
+input[type=  text]{
+    font-size: 20px;
+    margin-top: 5px;
+    
+}
+.btn{
+    width:18%;
+    height:12%;
+    background-color: rgb(255,99,24);
+    color:white;
+    border: none;
+    font-size: x-large;
+     padding-top:5px ; 
+     margin-left: 14%;
+     margin-top: 10px;
+
+}
+button:hover{
+background-color:green;
+}
+
+.outerBox{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    border: 1px solid red;
+}
+
+.eachItem{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    
+    
+}
+.iconBox{
+    width:180%;
+    height:40px;
+    background-color: white;
+    padding-left: 10px;
+    margin-bottom: 2px;
+    display: flex;
+    justify-content: space-between;
+    color:red;
+    /* text-decoration: line-through; */
+
+}
+
+
+.icon{
+     padding-right:3%; 
+     margin-right: 9%!important ;  
+    color:red;
+    width:2%;
+    height:3%;
+    gap:4px;
+    display: flex;
+    padding-top:2%;
+   
+    
+
+} 
